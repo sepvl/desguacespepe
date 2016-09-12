@@ -1,0 +1,8 @@
+Tutorial edicion contenidos wordpress:
+https://www.youtube.com/watch?v=V50sBgQFcTM
+
+Crear secciones wordpress (tema hijo):
+http://caribdis.com.ar/2015/11/17/zerif-lite-como-agregar-una-nueva-seccion-personalizada/
+
+Crear barra de busquedas en el menú:
+http://caribdis.com.ar/2016/01/17/zerif-lite-como-anadir-una-barra-de-busqueda-en-el-menu-superior/
